@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Kittens",
+  "version": "0.1.0",
+  "description": "The best extension ever",
+
+  "content_scripts": [{
+    "js": ["<all_urls>"],
+    "matches": ["http://www.aftonbladet.se/"]
+  }]
+
+}
