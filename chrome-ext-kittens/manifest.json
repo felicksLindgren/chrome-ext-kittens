@@ -6,8 +6,8 @@
   "description": "The best extension ever",
 
   "content_scripts": [{
-    "js": ["<all_urls>"],
-    "matches": ["http://www.aftonbladet.se/"]
+    "js": ["content.js"],
+    "matches": ["<all_urls>"]
   }]
 
 }
