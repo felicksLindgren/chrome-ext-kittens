@@ -1,4 +1,5 @@
 # chrome-ext-kittens
 Kittens
 
-Add this as a local chrome extension and be amazed.
+Clearly a rip off. 
+Made for me to learn chrome extensions and simple js-stuff. 
